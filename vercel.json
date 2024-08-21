@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "DATABASE_URL": "@database_url"
+    "DATABASE_URL": "mongodb+srv://furqank219:Wze8L5AmvX4cCwDY@cluster0.ijlcu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   }
 }
